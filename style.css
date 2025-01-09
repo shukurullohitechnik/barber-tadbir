@@ -1,0 +1,30 @@
+*{
+    text-decoration: none;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+
+}
+nav ul{
+    display: flex;
+  gap: 400px;
+  margin-left: 300px;
+}
+nav ul li ul li a{
+    color: black;
+    font-size: 20px;
+}
+
+nav ul button{
+    background-color: yellow;
+    padding: 10px 20px;
+    color: white;
+    border: none;
+}
+nav ul li ul{
+gap: 30px;
+}
+
